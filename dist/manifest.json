@@ -10,7 +10,7 @@
     "versions": [
       {
         "version": "10.9.0.2",
-        "checksum": "46f29865d6ddb8e66f577ffd93cb8a55",
+        "checksum": "214E855F28C8D45203CC2D7F0C1A0CF2",
         "changelog": "new release",
         "name": "КиноПоиск",
         "targetAbi": "10.9.0",
